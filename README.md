@@ -1,93 +1,39 @@
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/yuzzothecreator/yuzzothecreator/main/assets/banner.jpg" alt="Yuzzo The Creator — Creative minds, secure solutions" width="100%" />
-
-  <br/><br/>
-
-  <a href="https://github.com/yuzzothecreator">
-    <img src="https://img.shields.io/badge/GitHub-yuzzothecreator-0b0d11?style=for-the-badge&logo=github&logoColor=45d3e8" alt="GitHub" />
-  </a>
-  <a href="https://github.com/yuzzothecreator1">
-    <img src="https://img.shields.io/badge/@yuzzothecreator1-0b0d11?style=for-the-badge&logo=x&logoColor=45d3e8" alt="yuzzothecreator1" />
-  </a>
-  <img src="https://img.shields.io/badge/Based%20in-Arusha%2C%20TZ-0b0d11?style=for-the-badge&color=0f766e" alt="Arusha" />
-
-</div>
-
-<br/>
-
-### About
-
-I design and ship **production SaaS** with calm interfaces and secure foundations — fintech trust scoring, cybersecurity command centers, municipal platforms, and automation products for East African teams.
-
-**Creative minds. Secure solutions.**
-
-<br/>
-
-### Focus
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yuzzothecreator/yuzzothecreator/main/assets/card-fintech.jpg" alt="Fintech and trust" width="32%" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/yuzzothecreator/yuzzothecreator/main/assets/card-security.jpg" alt="Security platforms" width="32%" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/yuzzothecreator/yuzzothecreator/main/assets/card-saas.png" alt="Ops and SaaS" width="32%" />
+<p align="left">
+  <img src="./assets/header.svg" alt="Yuzzo The Creator" width="680" />
 </p>
 
-<br/>
+I'm a product engineer based in Arusha. I design and ship software for teams that need clarity more than noise — security, trust, payments, and day-to-day operations.
 
-### Featured work
+I care about interfaces people can trust, and backends that stay calm under real use.
 
-| Product | What it does | Stack |
-| --- | --- | --- |
-| [**Securox**](https://securox.vercel.app) · [`securox`](https://github.com/yuzzothecreator/securox) | Cybersecurity command center — threats, incidents, training, risk | Next.js · TypeScript |
-| [**Link-Up**](https://github.com/yuzzothecreator/Link-Up) | Digital trust scoring for small businesses and lenders | Next.js · Fintech |
-| [**Rasimisha**](https://ditrtms.vercel.app) · [`Rasimisha`](https://github.com/yuzzothecreator/Rasimisha) | Tanzanian municipal services — IDs, payments, RBAC dashboards | Next.js · Supabase |
-| [**Wagwan**](https://github.com/yuzzothecreator/Wagwan) | WhatsApp automation, AI inbox, CRM for East African businesses | Next.js · SaaS |
-| [**4ward**](https://github.com/yuzzothecreator/4ward) | Student & developer marketplace for IT projects | TypeScript · Marketplace |
-| [**WareBox**](https://github.com/yuzzothecreator/WareBox) | Interactive labs that simulate real engineering work | Python · Learning |
-| [**BigSMS**](https://bigsms.vercel.app) · [`BigSMS`](https://github.com/yuzzothecreator/BigSMS) | SMS communication platform for Africa | Next.js |
-| [**Zutu Engine**](https://github.com/yuzzothecreator/Zutu-engine) | High-performance CLI media engine | Go |
+---
 
-<br/>
+### Selected work
 
-### Toolbox
+**[Securox](https://securox.vercel.app)** — cybersecurity command center for threats, incidents, training, and risk.  
+[`yuzzothecreator/securox`](https://github.com/yuzzothecreator/securox)
 
-```text
-Languages   TypeScript · Python · Go · Java
-Frontend    Next.js · React · Tailwind · shadcn/ui
-Backend     NestJS · Spring Boot · FastAPI · Prisma · Drizzle
-Data        PostgreSQL · Redis · Supabase · MinIO
-Product     Auth · Payments · SMS · WhatsApp · Media pipelines
-```
+**[Link-Up](https://github.com/yuzzothecreator/Link-Up)** — digital trust scoring for small businesses and lenders.
 
-<br/>
+**[Rasimisha](https://ditrtms.vercel.app)** — municipal services for Tanzania: digital IDs, payments, RBAC dashboards.  
+[`yuzzothecreator/Rasimisha`](https://github.com/yuzzothecreator/Rasimisha)
 
-### Activity
+**[Wagwan](https://github.com/yuzzothecreator/Wagwan)** — WhatsApp automation, inbox, and CRM for East African businesses.
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yuzzothecreator&show_icons=true&theme=transparent&hide_border=true&title_color=45d3e8&icon_color=2eb67d&text_color=94a3b8&bg_color=0b0d11" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzzothecreator&layout=compact&theme=transparent&hide_border=true&title_color=45d3e8&text_color=94a3b8&bg_color=0b0d11" alt="Top languages" />
-</p>
+**[4ward](https://github.com/yuzzothecreator/4ward)** — marketplace for students and developers to sell IT projects.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yuzzothecreator&theme=dark&hide_border=true&background=0B0D11&ring=45D3E8&fire=2EB67D&currStreakLabel=45D3E8" alt="GitHub streak" />
-</p>
+**[WareBox](https://github.com/yuzzothecreator/WareBox)** — labs that simulate real engineering work: build, debug, ship.
 
-<br/>
+**[Zutu Engine](https://github.com/yuzzothecreator/Zutu-engine)** — high-performance media CLI in Go.
 
-### Currently building
+---
 
-- Calm, content-first streaming and media platforms
-- Trust and security products with production-grade auth
-- Developer tools and learning environments for real shipping skills
+### Stack
 
-<br/>
+Next.js · TypeScript · NestJS · Spring Boot · Python · Go · PostgreSQL · Redis · Supabase · Prisma
 
-<div align="center">
+---
 
-  **Open to collaboration on fintech, security, and East Africa SaaS.**
+### Elsewhere
 
-  <sub>Built with the same clarity standard as my product UIs.</sub>
-
-</div>
+[@yuzzothecreator1](https://github.com/yuzzothecreator1) · Arusha, TZ
