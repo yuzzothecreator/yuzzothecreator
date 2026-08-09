@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="120" viewBox="0 0 360 120">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#45d3e8"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="120" rx="16" fill="#0b0d11" stroke="#1e2936"/>
+  <rect x="18" y="22" width="40" height="40" rx="12" fill="#10241f" stroke="#0f766e"/>
+  <path d="M30 42 h16 M38 34 v16" stroke="#45d3e8" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="72" y="40" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Fintech &amp; trust</text>
+  <text x="72" y="64" fill="#94a3b8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Creditworthiness, payments, and calm dashboards for real businesses.</text>
+  <rect x="18" y="86" width="70" height="6" rx="3" fill="url(#g)"/>
+</svg>
