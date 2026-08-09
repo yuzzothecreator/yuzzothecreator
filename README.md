@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="./assets/banner.svg" alt="Yuzzo The Creator — Creative minds, secure solutions" width="100%" />
+  <img src="https://raw.githubusercontent.com/yuzzothecreator/yuzzothecreator/main/assets/banner.png" alt="Yuzzo The Creator — Creative minds, secure solutions" width="100%" />
 
-  <br/>
+  <br/><br/>
 
   <a href="https://github.com/yuzzothecreator">
     <img src="https://img.shields.io/badge/GitHub-yuzzothecreator-0b0d11?style=for-the-badge&logo=github&logoColor=45d3e8" alt="GitHub" />
@@ -10,7 +10,7 @@
   <a href="https://github.com/yuzzothecreator1">
     <img src="https://img.shields.io/badge/@yuzzothecreator1-0b0d11?style=for-the-badge&logo=x&logoColor=45d3e8" alt="yuzzothecreator1" />
   </a>
-  <img src="https://img.shields.io/badge/Based%20in-Arusha%2C%20TZ-0b0d11?style=for-the-badge&logoColor=45d3e8&color=0f766e" alt="Arusha" />
+  <img src="https://img.shields.io/badge/Based%20in-Arusha%2C%20TZ-0b0d11?style=for-the-badge&color=0f766e" alt="Arusha" />
 
 </div>
 
@@ -27,11 +27,11 @@ I design and ship **production SaaS** with calm interfaces and secure foundation
 ### Focus
 
 <p align="center">
-  <img src="./assets/card-fintech.svg" alt="Fintech and trust" width="32%" />
+  <img src="https://raw.githubusercontent.com/yuzzothecreator/yuzzothecreator/main/assets/card-fintech.png" alt="Fintech and trust" width="32%" />
   &nbsp;
-  <img src="./assets/card-security.svg" alt="Security platforms" width="32%" />
+  <img src="https://raw.githubusercontent.com/yuzzothecreator/yuzzothecreator/main/assets/card-security.png" alt="Security platforms" width="32%" />
   &nbsp;
-  <img src="./assets/card-saas.svg" alt="Ops and SaaS" width="32%" />
+  <img src="https://raw.githubusercontent.com/yuzzothecreator/yuzzothecreator/main/assets/card-saas.png" alt="Ops and SaaS" width="32%" />
 </p>
 
 <br/>
