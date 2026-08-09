@@ -2,9 +2,9 @@
 
 <br/>
 
-I'm a product engineer in Arusha. I ship software for teams that need clarity — security, trust, payments, and operations.
+I'm a product engineer in Arusha. I build calm, content-first software — security, trust, payments, and operations — with interfaces people can trust and backends that stay steady under real use.
 
-I care about interfaces people can trust, and backends that stay calm under real use.
+Creative minds. Secure solutions.
 
 ### Selected work
 
